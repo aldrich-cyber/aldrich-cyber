@@ -1,16 +1,15 @@
-## Hi there 👋
+# Aldrich Jomon
 
-<!--
-**aldrich-cyber/aldrich-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+while (learning) {
+    build();
+    secure();
+    improve();
+}
+```
 
-Here are some ideas to get you started:
+Computer Science student with an interest in cybersecurity, software engineering, and creating reliable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+This version is intentionally minimal—no badges, no stats, no clutter.
