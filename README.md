@@ -1,26 +1,40 @@
-# Aldrich Jomon
+<div align="center">
+
+# Hi, I'm Aldrich Jomon 👋
 
 ```text
 Computer Science Student
-Cybersecurity • Software Development • Open Source
+Cybersecurity • Docker • Backend Development • Linux
 ```
 
-I enjoy building practical software, learning how systems work, and improving my understanding of security through hands-on projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Building+secure+systems.;Learning+every+day.;Docker+Enthusiast.;Open+Source+Explorer." alt="Typing SVG" />
+
+</div>
+
+## About
+
+I enjoy building secure, scalable applications and exploring how systems work under the hood. My interests span cybersecurity, containerization, backend development, and cloud technologies.
 
 ## Focus
 
-- Cybersecurity
-- Backend Development
-- Linux
-- Cloud & DevOps
-- Open Source
+- 🔐 Cybersecurity
+- 🐳 Docker & Containerization
+- 🐧 Linux
+- ⚙️ Backend Development
+- ☁️ Cloud & DevOps
+- 🌱 Open Source
 
-## Currently
+## Current Goals
 
-- Building projects that solve real problems
-- Exploring modern security tools and workflows
-- Continuously learning and improving
+- Build production-ready projects
+- Improve security engineering skills
+- Learn Kubernetes and cloud-native technologies
+- Contribute to open source
 
 ---
 
-> *Build. Break. Learn. Repeat.*
+<div align="center">
+
+*"Build with purpose. Secure by design."*
+
+</div>
