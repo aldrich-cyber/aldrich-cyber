@@ -1,15 +1,26 @@
 # Aldrich Jomon
 
-```
-while (learning) {
-    build();
-    secure();
-    improve();
-}
+```text
+Computer Science Student
+Cybersecurity • Software Development • Open Source
 ```
 
-Computer Science student with an interest in cybersecurity, software engineering, and creating reliable systems.
+I enjoy building practical software, learning how systems work, and improving my understanding of security through hands-on projects.
 
-```
+## Focus
 
-This version is intentionally minimal—no badges, no stats, no clutter.
+- Cybersecurity
+- Backend Development
+- Linux
+- Cloud & DevOps
+- Open Source
+
+## Currently
+
+- Building projects that solve real problems
+- Exploring modern security tools and workflows
+- Continuously learning and improving
+
+---
+
+> *Build. Break. Learn. Repeat.*
